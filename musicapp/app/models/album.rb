@@ -1,0 +1,2 @@
+class Album < ApplicationController
+end
